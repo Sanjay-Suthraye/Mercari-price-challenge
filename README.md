@@ -8,4 +8,15 @@ The performance metric used for this challenge is RMSLE.
 Why RMSLE?
   *  RMSLE focus more on the sale of product atleast more than the minimum Value
   
- 
+## EDA
+* Focusing on the Nan Values, have used MissingNo Library to understand the Histogram and Dendogram relation of Missing values in a better visual way
+* Word Cloud is been utilized to understand the text data is a clear cut way.
+* The Categories are Subclassified to come up with better understanding about the Data
+
+## Feature Engineering (Work in Progress)
+* The data deals with lot of text values, utilizing them, Building a custom Name Entity Recognition technique which is part of Natural Language Processing.
+* Sentiment Analyzer for understanding the positive or Negative Outcomes of the Product Description
+
+## COnclusion
+The project is still work in progress, files will be updated as soon as the Model is Trained.
+Stay Tuned ✌️
